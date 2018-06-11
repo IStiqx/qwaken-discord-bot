@@ -48,4 +48,4 @@ async def gen(ctx):
 
         print("{} Typed !gen".format(userName))
 
-bot.run("NDU1NDA5ODUyNzg5ODE3Mzk1.Df7sDg.qxlEfl35T6fM-wqBHdros0EcBlc")
+bot.run("NDU1NDA5ODUyNzg5ODE3Mzk1.Df_KMQ.L2B4jTgX87INQ8ivPIej4ixCumk")
